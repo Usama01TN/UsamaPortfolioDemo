@@ -1,0 +1,7 @@
+.intro { display: grid; gap: 3rem; grid-template-columns: 1fr; align-items: start; }
+@media (min-width: 52rem) { .intro { grid-template-columns: 24rem 1fr; gap: 5rem; } }
+.photo { width: min(70vw, 24rem); border-radius: 28px 28px 28px 160px; overflow: hidden; border: 1px solid var(--line); background: var(--paper); }
+.photo img { width: 100%; height: auto; }
+.title { font-size: clamp(3rem, 8vw, 6rem); letter-spacing: -0.04em; margin-bottom: 1.5rem; }
+.prose { display: grid; gap: 1.2rem; }
+.actions { display: flex; flex-wrap: wrap; gap: 0.9rem; margin-top: 0.8rem; }

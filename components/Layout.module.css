@@ -1,0 +1,32 @@
+.header { position: sticky; top: 0; z-index: 50; background: color-mix(in srgb, var(--wash) 88%, transparent); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
+.bar { display: flex; align-items: center; justify-content: space-between; min-height: 4.25rem; gap: 1rem; }
+.brand { display: inline-flex; align-items: center; gap: 0.7rem; font-family: var(--display); font-weight: 700; font-size: 1.15rem; letter-spacing: -0.02em; color: var(--ink); text-decoration: none; }
+.brand:hover { color: var(--door); }
+.mark { width: 2rem; height: 2rem; color: var(--door); transition: transform 0.4s var(--ease); }
+.brand:hover .mark { transform: rotate(-8deg) scale(1.06); }
+
+.nav { display: flex; gap: 0.25rem; }
+.nav a { position: relative; font-family: var(--display); font-weight: 500; font-size: 1.05rem; color: var(--ink); text-decoration: none; padding: 0.5rem 0.9rem; }
+.nav a::after { content: ""; position: absolute; left: 0.9rem; right: 0.9rem; bottom: 0.25rem; height: 2px; background: var(--door); transform: scaleX(0); transform-origin: left; transition: transform 0.3s var(--ease); }
+.nav a:hover::after, .nav a.active::after { transform: scaleX(1); }
+.nav a.active { color: var(--door); }
+
+.toggle { display: none; background: none; border: 2px solid var(--ink); border-radius: 999px; padding: 0.3rem 1rem; font-family: var(--display); font-weight: 600; cursor: pointer; }
+
+@media (max-width: 40rem) {
+  .toggle { display: inline-block; }
+  .nav { position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; background: var(--wash); border-bottom: 1px solid var(--line); padding: 0.5rem var(--pad) 1rem; display: none; }
+  .nav.open { display: flex; }
+  .nav a { font-size: 1.4rem; padding: 0.6rem 0; }
+  .nav a::after { left: 0; right: auto; width: 2.5rem; }
+}
+
+.footer { background: var(--deep); color: #dbe6fa; padding-block: clamp(3rem, 8vw, 5.5rem) 2rem; }
+.footInner { display: flex; flex-wrap: wrap; gap: 2.5rem; justify-content: space-between; align-items: flex-end; }
+.footHead { font-family: var(--display); font-size: 1.1rem; color: #9fb7e6; margin-bottom: 0.4rem; }
+.mail { font-family: var(--display); font-weight: 600; font-size: clamp(1.6rem, 5vw, 3.2rem); letter-spacing: -0.03em; color: #fff; text-decoration: none; overflow-wrap: anywhere; background: linear-gradient(var(--jasmine), var(--jasmine)) left bottom / 0 3px no-repeat; transition: background-size 0.4s var(--ease); }
+.mail:hover { color: #fff; background-size: 100% 3px; }
+.links { display: flex; gap: 1.5rem; flex-wrap: wrap; font-family: var(--display); }
+.links a { color: #dbe6fa; text-decoration: none; }
+.links a:hover { color: #fff; text-decoration: underline; }
+.legal { margin-top: 3rem; font-size: 0.95rem; color: #9fb7e6; }

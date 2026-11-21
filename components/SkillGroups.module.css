@@ -1,0 +1,5 @@
+.groups { display: grid; gap: 2.5rem 3rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); margin: 0; }
+.group { border-top: 2px solid var(--ink); padding-top: 0.9rem; }
+.group dt { font-family: var(--display); font-weight: 600; font-size: 1.3rem; letter-spacing: -0.02em; margin-bottom: 0.6rem; }
+.group dd { margin: 0; }
+.group li { padding: 0.28rem 0; border-bottom: 1px solid var(--line); font-size: 1.05rem; }

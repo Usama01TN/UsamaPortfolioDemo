@@ -1,0 +1,2 @@
+.title { font-size: clamp(3rem, 8vw, 6rem); letter-spacing: -0.04em; }
+.band { background: var(--paper); border-top: 1px solid var(--line); }

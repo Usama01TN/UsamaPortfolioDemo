@@ -1,0 +1,9 @@
+.form { display: grid; gap: 1.4rem; }
+.form label { display: grid; gap: 0.4rem; font-family: var(--display); font-weight: 600; font-size: 1.05rem; }
+.form input, .form textarea { font-family: var(--text); font-weight: 400; font-size: 1.1rem; background: var(--paper); border: 2px solid var(--line); border-radius: 12px; padding: 0.8rem 1rem; width: 100%; transition: border-color 0.2s; }
+.form input:hover, .form textarea:hover { border-color: #9fb3d4; }
+.form input:focus-visible, .form textarea:focus-visible { outline: 3px solid var(--jasmine); outline-offset: 2px; border-color: var(--door); }
+.form textarea { resize: vertical; min-height: 9rem; }
+.trap { position: absolute !important; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.5rem; }
+.status { font-size: 1rem; color: var(--muted); }

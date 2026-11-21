@@ -1,0 +1,23 @@
+.hero { display: grid; gap: clamp(2rem, 5vw, 4rem); grid-template-columns: 1fr; align-items: center; padding-block: clamp(3rem, 8vw, 6.5rem); }
+@media (min-width: 62rem) { .hero { grid-template-columns: 1.05fr 1fr; } }
+
+.name { display: flex; flex-direction: column; font-size: clamp(3.6rem, 11vw, 8.2rem); font-weight: 700; letter-spacing: -0.045em; line-height: 0.92; color: var(--ink); }
+.mask { display: block; overflow: hidden; padding-bottom: 0.08em; }
+.mask > span { display: block; transform: translateY(105%); animation: rise 0.9s var(--ease) forwards; animation-delay: calc(0.1s + var(--i) * 0.12s); }
+.mask:nth-child(2) > span { color: var(--door); }
+@keyframes rise { to { transform: none; } }
+
+.tag { margin-top: 1.75rem; opacity: 0; animation: show 0.7s ease 0.55s forwards; }
+.actions { margin-top: 2rem; display: flex; flex-wrap: wrap; gap: 0.9rem; opacity: 0; animation: show 0.7s ease 0.7s forwards; }
+@keyframes show { to { opacity: 1; } }
+
+.visual { background: var(--paper); border: 1px solid var(--line); border-radius: 28px; padding: clamp(1.25rem, 3vw, 2rem); opacity: 0; animation: show 0.8s ease 0.5s forwards; }
+
+@media (prefers-reduced-motion: reduce) {
+  .mask > span { transform: none; }
+  .tag, .actions, .visual { opacity: 1; }
+}
+
+.platforms { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 1.5rem; opacity: 0; animation: show 0.7s ease 0.62s forwards; }
+.platforms li { font-family: var(--display); font-size: 0.95rem; font-weight: 500; padding: 0.15rem 0.8rem; border: 1px solid var(--line); border-radius: 999px; background: var(--paper); }
+@media (prefers-reduced-motion: reduce) { .platforms { opacity: 1; } }

@@ -1,0 +1,8 @@
+.figure { margin: 0; }
+.svg { width: 100%; height: auto; overflow: visible; }
+.label, .router, .result, .fail { font-family: var(--display); font-weight: 600; }
+.label { font-size: 15px; fill: var(--muted); }
+.router { font-size: 20px; fill: #fff; }
+.result { font-size: 16px; fill: var(--ink); }
+.fail { font-size: 15px; fill: var(--harissa); }
+.caption { margin-top: 0.75rem; font-size: 0.95rem; color: var(--muted); }

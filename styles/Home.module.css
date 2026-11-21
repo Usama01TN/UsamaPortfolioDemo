@@ -1,0 +1,4 @@
+.head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: 2.5rem; }
+.head a { font-family: var(--display); font-weight: 600; }
+.band { background: var(--paper); border-block: 1px solid var(--line); }
+.skills { margin-top: 2.75rem; }

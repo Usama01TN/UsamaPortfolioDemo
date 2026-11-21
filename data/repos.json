@@ -1,0 +1,394 @@
+[
+ {
+  "name": "UserDirectoryExample",
+  "description": "",
+  "language": "JavaScript",
+  "stars": 0,
+  "pushedAt": "2026-11-21T08:45:17Z",
+  "fork": false
+ },
+ {
+  "name": "ScreenMagnifier",
+  "description": "Real-time screen magnifier for Windows, macOS & Linux with AI super-resolution, an in-game zoom lens, a screen color picker, color & face detection and an optional analysis server. Python + Qt (PyQt/PySide).",
+  "language": "Python",
+  "stars": 2,
+  "pushedAt": "2026-11-20T16:20:37Z",
+  "fork": false
+ },
+ {
+  "name": "Usama01TN",
+  "description": "",
+  "language": "Python",
+  "stars": 0,
+  "pushedAt": "2026-11-20T10:53:56Z",
+  "fork": false
+ },
+ {
+  "name": "ReactUserDirectoryExample",
+  "description": "",
+  "language": "JavaScript",
+  "stars": 0,
+  "pushedAt": "2026-11-16T21:53:36Z",
+  "fork": false
+ },
+ {
+  "name": "PyFreeRdpNative",
+  "description": "About PyFreeRdpNative is a remote desktop protocol library on cross-platforms for clients & servers compiled for python",
+  "language": "Python",
+  "stars": 2,
+  "pushedAt": "2026-11-16T16:57:59Z",
+  "fork": false
+ },
+ {
+  "name": "ToDoAppRedux",
+  "description": "",
+  "language": "JavaScript",
+  "stars": 0,
+  "pushedAt": "2026-11-16T13:33:14Z",
+  "fork": false
+ },
+ {
+  "name": "RdpyManyQt",
+  "description": "Remote Desktop Protocol in Twisted Python",
+  "language": "Python",
+  "stars": 1,
+  "pushedAt": "2026-11-15T23:58:08Z",
+  "fork": true
+ },
+ {
+  "name": "MovieAppExample",
+  "description": "",
+  "language": "JavaScript",
+  "stars": 0,
+  "pushedAt": "2026-11-14T15:38:46Z",
+  "fork": false
+ },
+ {
+  "name": "SimpleReactComponent",
+  "description": "",
+  "language": "JavaScript",
+  "stars": 0,
+  "pushedAt": "2026-11-13T07:15:58Z",
+  "fork": false
+ },
+ {
+  "name": "QAxRDP",
+  "description": "Microsoft Remote Desktop (RDP) ActiveX control as a Qt widget for Python via ManyQt (PyQt/PySide), with a Qt Designer plugin.",
+  "language": "Python",
+  "stars": 1,
+  "pushedAt": "2026-11-12T20:20:09Z",
+  "fork": false
+ },
+ {
+  "name": "MicroFunc",
+  "description": "",
+  "language": "Python",
+  "stars": 1,
+  "pushedAt": "2026-11-09T18:21:46Z",
+  "fork": false
+ },
+ {
+  "name": "FifaPlayerCardsSimple",
+  "description": "",
+  "language": "JavaScript",
+  "stars": 0,
+  "pushedAt": "2026-11-08T12:37:16Z",
+  "fork": false
+ },
+ {
+  "name": "SimpleReactProductCard",
+  "description": "",
+  "language": "JavaScript",
+  "stars": 0,
+  "pushedAt": "2026-11-05T22:49:19Z",
+  "fork": false
+ },
+ {
+  "name": "motonic-react",
+  "description": "",
+  "language": "CSS",
+  "stars": 0,
+  "pushedAt": "2026-11-05T21:05:06Z",
+  "fork": false
+ },
+ {
+  "name": "PyFreeRdpApp",
+  "description": "Python RDP client built on FreeRDP 3: an embeddable Qt widget (PyQt5/6, PySide6) and a desktop app with clipboard and file transfer, shared folders, sound, RemoteApp, Azure AD sign-in and H.264 graphics. Crossplatforms.",
+  "language": "Python",
+  "stars": 1,
+  "pushedAt": "2026-11-05T12:43:00Z",
+  "fork": false
+ },
+ {
+  "name": "QFunnyWidgets-cpp",
+  "description": "Funny animated Qt widgets for C++: switches, loaders, sliders, toasts and more, each with a personality.",
+  "language": "C++",
+  "stars": 1,
+  "pushedAt": "2026-10-15T04:07:59Z",
+  "fork": false
+ },
+ {
+  "name": "ManyQt",
+  "description": "Enables single-codebase support for PyQt4, PyQt5, PyQt6, PySide, PySide2 and PySide6 through a uniform API",
+  "language": "Python",
+  "stars": 1,
+  "pushedAt": "2026-10-11T16:07:18Z",
+  "fork": false
+ },
+ {
+  "name": "QFunnyWidgets",
+  "description": "Funny animated Qt widgets for PyQt and PySide: switches, loaders, sliders, toasts and more, each with a personality.",
+  "language": "Python",
+  "stars": 1,
+  "pushedAt": "2026-10-11T15:26:38Z",
+  "fork": false
+ },
+ {
+  "name": "InkpadExample",
+  "description": "",
+  "language": "HTML",
+  "stars": 0,
+  "pushedAt": "2026-10-09T12:09:10Z",
+  "fork": false
+ },
+ {
+  "name": "PricingCardExample",
+  "description": "",
+  "language": "HTML",
+  "stars": 0,
+  "pushedAt": "2026-10-09T09:57:18Z",
+  "fork": false
+ },
+ {
+  "name": "WhiteDarkThemeExample",
+  "description": "",
+  "language": "CSS",
+  "stars": 0,
+  "pushedAt": "2026-10-08T02:15:43Z",
+  "fork": false
+ },
+ {
+  "name": "PortfolioTemplate",
+  "description": "",
+  "language": "HTML",
+  "stars": 0,
+  "pushedAt": "2026-10-07T16:16:20Z",
+  "fork": false
+ },
+ {
+  "name": "ColorChangerExample",
+  "description": "",
+  "language": "CSS",
+  "stars": 0,
+  "pushedAt": "2026-10-04T14:06:25Z",
+  "fork": false
+ },
+ {
+  "name": "ShoppingCardExample",
+  "description": "",
+  "language": "HTML",
+  "stars": 0,
+  "pushedAt": "2026-10-04T13:58:55Z",
+  "fork": false
+ },
+ {
+  "name": "StrArrMathFunc",
+  "description": "",
+  "language": "JavaScript",
+  "stars": 0,
+  "pushedAt": "2026-10-01T10:33:55Z",
+  "fork": false
+ },
+ {
+  "name": "OcrRoute",
+  "description": "One API for 50+ OCR engines: smart routing, automatic fallbacks, caching, cost tracking, web dashboard and PyQt desktop app.",
+  "language": "Python",
+  "stars": 3,
+  "pushedAt": "2026-09-30T15:15:54Z",
+  "fork": false
+ },
+ {
+  "name": "QRemoteDisplay",
+  "description": "A simple RDP connector based on PyFreeRdpNative and ManyQt for python.",
+  "language": "Python",
+  "stars": 1,
+  "pushedAt": "2026-09-18T20:02:15Z",
+  "fork": false
+ },
+ {
+  "name": "QuizKey",
+  "description": "Hotkey-driven AI quiz assistant for Chrome, powered by vision models (OpenAI, Claude, Gemini, OpenRouter, OmniRoute, Ollama, LM Studio\u2026)",
+  "language": "JavaScript",
+  "stars": 2,
+  "pushedAt": "2026-09-15T00:15:15Z",
+  "fork": false
+ },
+ {
+  "name": "FreeRdpCrossBuilder",
+  "description": "",
+  "language": null,
+  "stars": 0,
+  "pushedAt": "2026-09-08T23:12:35Z",
+  "fork": false
+ },
+ {
+  "name": "SimpleTodoListApi",
+  "description": "Simple TodoList api for NodeJs",
+  "language": "JavaScript",
+  "stars": 0,
+  "pushedAt": "2026-09-08T09:38:10Z",
+  "fork": false
+ },
+ {
+  "name": "AlgoProblems",
+  "description": "",
+  "language": null,
+  "stars": 0,
+  "pushedAt": "2026-09-05T17:49:01Z",
+  "fork": false
+ },
+ {
+  "name": "SentenceAnalysisAlgo",
+  "description": "",
+  "language": null,
+  "stars": 0,
+  "pushedAt": "2026-09-05T16:14:21Z",
+  "fork": false
+ },
+ {
+  "name": "ShopZone",
+  "description": "",
+  "language": "HTML",
+  "stars": 0,
+  "pushedAt": "2026-09-05T15:18:16Z",
+  "fork": false
+ },
+ {
+  "name": "LaBellaTavolaRestaurant",
+  "description": "",
+  "language": "HTML",
+  "stars": 0,
+  "pushedAt": "2026-09-05T11:16:32Z",
+  "fork": false
+ },
+ {
+  "name": "How_To_Linux",
+  "description": "a linux_guide ..",
+  "language": "HTML",
+  "stars": 0,
+  "pushedAt": "2026-09-01T08:56:52Z",
+  "fork": false
+ },
+ {
+  "name": "foods_menu",
+  "description": "",
+  "language": "HTML",
+  "stars": 0,
+  "pushedAt": "2026-08-18T12:41:13Z",
+  "fork": false
+ },
+ {
+  "name": "portfolio-html",
+  "description": "",
+  "language": "HTML",
+  "stars": 0,
+  "pushedAt": "2026-08-17T11:14:55Z",
+  "fork": false
+ },
+ {
+  "name": "TheWalkingDuckTaskBar",
+  "description": "A PyQt/PySide quacking duck that waddles across the Windows taskbar.",
+  "language": "Python",
+  "stars": 1,
+  "pushedAt": "2026-08-16T13:00:49Z",
+  "fork": false
+ },
+ {
+  "name": "MiniRDPBlocker",
+  "description": "A lightweight tool that automatically drops unwanted RDP sessions by client IP or geolocated country. Password-protected, runs as a hidden background blocker.",
+  "language": "Python",
+  "stars": 1,
+  "pushedAt": "2026-08-14T00:17:08Z",
+  "fork": false
+ },
+ {
+  "name": "learn_git",
+  "description": "",
+  "language": null,
+  "stars": 0,
+  "pushedAt": "2026-07-07T14:17:13Z",
+  "fork": false
+ },
+ {
+  "name": "my-first-project",
+  "description": "",
+  "language": null,
+  "stars": 0,
+  "pushedAt": "2026-07-06T16:29:39Z",
+  "fork": false
+ },
+ {
+  "name": "Maxipy",
+  "description": "",
+  "language": null,
+  "stars": 0,
+  "pushedAt": "2026-07-06T14:27:01Z",
+  "fork": false
+ },
+ {
+  "name": "py-ios-builder",
+  "description": "",
+  "language": "Shell",
+  "stars": 0,
+  "pushedAt": "2026-06-13T17:41:06Z",
+  "fork": false
+ },
+ {
+  "name": "PyQtBuilder",
+  "description": "Builds PyQt/PySide apps on multiple platforms",
+  "language": "Python",
+  "stars": 1,
+  "pushedAt": "2026-06-07T09:35:24Z",
+  "fork": false
+ },
+ {
+  "name": "NGL.LINK-BotherBot",
+  "description": "is a lightweight tool that automates sending repeated NGL messages to selected usernames for casual, non-serious use.",
+  "language": "Python",
+  "stars": 0,
+  "pushedAt": "2026-04-11T22:32:53Z",
+  "fork": false
+ },
+ {
+  "name": "pyinstaller",
+  "description": "Freeze (package) Python programs into stand-alone executables",
+  "language": "Python",
+  "stars": 0,
+  "pushedAt": "2026-01-29T16:30:41Z",
+  "fork": true
+ },
+ {
+  "name": "SteamFreeLicenseRemover",
+  "description": "A simple JS code to remove free games & softwares from your Steam library.",
+  "language": "JavaScript",
+  "stars": 0,
+  "pushedAt": "2025-11-05T20:06:36Z",
+  "fork": false
+ },
+ {
+  "name": "QVariableStyleSheet",
+  "description": "CSS variable processing support for QSS files",
+  "language": "Python",
+  "stars": 0,
+  "pushedAt": "2025-03-27T21:04:47Z",
+  "fork": true
+ },
+ {
+  "name": "QtFullCraft",
+  "description": "QtFullCraft is a comprehensive framework based on Python, offering a rich set of professional widgets, core functionalities, GUI tools, and examples for both PyQt and PySide.",
+  "language": null,
+  "stars": 0,
+  "pushedAt": "2025-01-06T17:33:10Z",
+  "fork": false
+ }
+]
